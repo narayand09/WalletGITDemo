@@ -29,5 +29,10 @@ public class Facebook_Login_Page extends BaseClass{
 		loginbtn.click();
 		
 	}
+	
+	public void demo()
+	{
+		System.out.println("This is used for git repositiory");
+	}
 
 }
